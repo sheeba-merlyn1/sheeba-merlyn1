@@ -1,27 +1,16 @@
-<h1 align="center">Hi 👋, I'm Sheeba Merlyn</h1>
+<h1 align="center">Hi 👋, I'm Kengeri sheeba Merlyn</h1>
 <h3 align="center">Data Analyst | Turning raw data into clear, actionable insights</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/sheebamerlyn/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="mailto:shebamerlin8@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://YOUR-PORTFOLIO-SITE.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </p>
 
----
-
-### 🧠 About Me
-
-- 🔍 Passionate about turning messy, real-world data into clean, decision-ready insights
-- 📊 Comfortable across the full analytics workflow — collection, cleaning, EDA, visualization, and storytelling
-- 🌱 Currently sharpening my skills in SQL, Python, and BI tooling
-- 🎯 2026 goal: ship end-to-end analytics projects with real business impact
-- 💬 Ask me about: dashboards, data cleaning, exploratory data analysis, and reporting automation
 
 ---
 
