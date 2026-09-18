@@ -36,8 +36,13 @@
 
 | Project | Description | 
 |---|---|
-| **[Uber Pricing Optimization – New York City ](https://github.com/sheeba-merlyn1/repo-1)** |
-| **[Fast Food Marketing Campaign – A/B Testing](https://github.com/sheeba-merlyn1/repo-2)** 
+| **[Uber Pricing Optimization – New York City ](https://github.com/sheeba-merlyn1/repo-1)** |– Analyzed Uber booking data using EDA and Linear Regression to identify key pricing drivers and evaluate fare strategies.
+– Proposed a pricing model demonstrating a potential 11.5% revenue increase.
+
+| **[Fast Food Marketing Campaign – A/B Testing](https://github.com/sheeba-merlyn1/repo-2)**|  – Evaluated three marketing campaigns across different market sizes using ANOVA and Post-Hoc T-tests.
+– Identified the statistically significant campaign to support data-driven marketing decisions
+
+
 ---
 
 <p align="center">
