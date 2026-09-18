@@ -29,27 +29,15 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sheeba-merlyn1&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheeba-merlyn1&layout=compact&hide_border=true&theme=default" alt="Top Languages" width="45%"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sheeba-merlyn1&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| **[Project Name 1](https://github.com/sheeba-merlyn1/repo-1)** | One-line summary — e.g. "Sales trend analysis dashboard using Power BI" | Python, Pandas, Power BI |
-| **[Project Name 2](https://github.com/sheeba-merlyn1/repo-2)** | One-line summary — e.g. "Customer churn EDA & visualization" | Python, Seaborn, SQL |
-| **[Project Name 3](https://github.com/sheeba-merlyn1/repo-3)** | One-line summary — e.g. "Automated reporting pipeline" | SQL, Excel, Python |
-
+| Project | Description | 
+|---|---|
+| **[Uber Pricing Optimization – New York City ](https://github.com/sheeba-merlyn1/repo-1)** |
+| **[Fast Food Marketing Campaign – A/B Testing](https://github.com/sheeba-merlyn1/repo-2)** 
 ---
 
 <p align="center">
