@@ -34,8 +34,7 @@
 
 ### 🚀 Featured Projects
 
-| Project | 
-|---|---|
+
 | **[Uber Pricing Optimization – New York City ](https://github.com/sheeba-merlyn1/repo-1)** 
 
 | **[Fast Food Marketing Campaign – A/B Testing](https://github.com/sheeba-merlyn1/repo-2)**
