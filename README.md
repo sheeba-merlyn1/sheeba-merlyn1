@@ -16,7 +16,7 @@ I analyze data to uncover patterns, test hypotheses, and translate findings into
 
 ---
 
-## Selected Projects
+## Projects
 
 ### Uber Pricing Optimization · New York City
 Analyzed ride and pricing patterns to identify demand drivers and pricing opportunities.
@@ -35,4 +35,4 @@ Evaluated campaign variants to determine which promotion drove the strongest sal
 ---
 
 ## Connect
-[LinkedIn](#) · [Email](#) · [Portfolio](#)
+[LinkedIn](https://www.linkedin.com/in/sheebamerlyn/) · [Email](shebamerlin8@gmail.com) · [Portfolio](#)
