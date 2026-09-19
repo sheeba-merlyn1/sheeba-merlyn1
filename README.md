@@ -23,7 +23,6 @@
 
 - **Problem:** where and when pricing leaves revenue on the table
 - **Approach:** demand patterns, surge analysis, segmentation
-- **Impact:** *[X% projected revenue lift]*
 - **Stack:** Python · SQL · Tableau
 
 [View case study →](#)
@@ -36,7 +35,6 @@
 
 - **Problem:** which promotion drives the strongest sales lift
 - **Approach:** experiment design, significance testing
-- **Impact:** *[Winner +X%, p < 0.05]*
 - **Stack:** Python · SciPy · Excel
 
 [View case study →](#)
