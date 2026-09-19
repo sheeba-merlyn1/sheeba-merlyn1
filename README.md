@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kengeri sheeba Merlyn</h1>
+<h1 align="center">Hi , I'm Kengeri sheeba Merlyn</h1>
 <h3 align="center">Data Analyst | Turning raw data into clear, actionable insights</h3>
 
 <p align="center">
