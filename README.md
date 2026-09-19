@@ -12,7 +12,7 @@
 
 </div>
 
-## Selected work
+## Projects
 
 <table>
   <tr>
@@ -47,7 +47,7 @@
 
 ## Connect
 
-<div align="center">
+<div>
 
 [LinkedIn](#) · [Email](#) · [Portfolio](#)
 
