@@ -1,38 +1,54 @@
+<div align="center">
+
 # Kengeri Sheeba Merlyn
-**Data Analyst** · Turning raw data into clear, actionable decisions
 
-I analyze data to uncover patterns, test hypotheses, and translate findings into business recommendations.
+**Data Analyst** · 
 
----
+<img src="https://img.shields.io/badge/Python-1f2328?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-1f2328?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-1f2328?style=flat-square&logo=powerbi&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau-1f2328?style=flat-square&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-1f2328?style=flat-square&logo=microsoftexcel&logoColor=white" />
 
-## Toolkit
+</div>
 
-| Area | Tools |
-|---|---|
-| Analysis | Python (Pandas, NumPy), SQL |
-| Visualization | Power BI, Tableau, Matplotlib, Seaborn |
-| Statistics | A/B Testing, Hypothesis Testing, Regression |
-| Other | Excel, Git |
+## Selected work
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-## Projects
+**Uber Pricing Optimization**
+<sub>Pricing analytics · New York City</sub>
 
-### Uber Pricing Optimization · New York City
-Analyzed ride and pricing patterns to identify demand drivers and pricing opportunities.
-- **Focus:** demand patterns, surge pricing, revenue impact
-- **Stack:** Python, SQL, Tableau
-- **Outcome:** *[e.g., identified peak-hour pricing changes projected to lift revenue by X%]*
-- [View project →](#)
+- **Problem:** where and when pricing leaves revenue on the table
+- **Approach:** demand patterns, surge analysis, segmentation
+- **Impact:** *[X% projected revenue lift]*
+- **Stack:** Python · SQL · Tableau
 
-### Fast Food Marketing Campaign · A/B Testing
-Evaluated campaign variants to determine which promotion drove the strongest sales lift.
-- **Focus:** experiment design, statistical significance, campaign ROI
-- **Stack:** Python, SciPy, Excel
-- **Outcome:** *[e.g., Promotion 3 outperformed others by X% (p < 0.05)]*
-- [View project →](#)
+[View case study →](#)
 
----
+</td>
+    <td width="50%" valign="top">
+
+**Fast Food Campaign A/B Test**
+<sub>Experimentation · Marketing</sub>
+
+- **Problem:** which promotion drives the strongest sales lift
+- **Approach:** experiment design, significance testing
+- **Impact:** *[Winner +X%, p < 0.05]*
+- **Stack:** Python · SciPy · Excel
+
+[View case study →](#)
+
+</td>
+  </tr>
+</table>
 
 ## Connect
-[LinkedIn](https://www.linkedin.com/in/sheebamerlyn/) · [Email](shebamerlin8@gmail.com) · [Portfolio](#)
+
+<div align="center">
+
+[LinkedIn](#) · [Email](#) · [Portfolio](#)
+
+</div>
