@@ -1,46 +1,38 @@
-<h1 align="center">Hi 👋, I'm Kengeri sheeba Merlyn</h1>
-<h3 align="center">Data Analyst | Turning raw data into clear, actionable insights</h3>
+# Kengeri Sheeba Merlyn
+**Data Analyst** · Turning raw data into clear, actionable decisions
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sheebamerlyn/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:shebamerlin8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  </a>
-</p>
-
+I analyze data to uncover patterns, test hypotheses, and translate findings into business recommendations.
 
 ---
 
-### 🛠️ Tools & Technologies
+## Toolkit
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres&theme=light" />
-  <br/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
+| Area | Tools |
+|---|---|
+| Analysis | Python (Pandas, NumPy), SQL |
+| Visualization | Power BI, Tableau, Matplotlib, Seaborn |
+| Statistics | A/B Testing, Hypothesis Testing, Regression |
+| Other | Excel, Git |
 
 ---
 
+## Selected Projects
+
+### Uber Pricing Optimization · New York City
+Analyzed ride and pricing patterns to identify demand drivers and pricing opportunities.
+- **Focus:** demand patterns, surge pricing, revenue impact
+- **Stack:** Python, SQL, Tableau
+- **Outcome:** *[e.g., identified peak-hour pricing changes projected to lift revenue by X%]*
+- [View project →](#)
+
+### Fast Food Marketing Campaign · A/B Testing
+Evaluated campaign variants to determine which promotion drove the strongest sales lift.
+- **Focus:** experiment design, statistical significance, campaign ROI
+- **Stack:** Python, SciPy, Excel
+- **Outcome:** *[e.g., Promotion 3 outperformed others by X% (p < 0.05)]*
+- [View project →](#)
 
 ---
 
-### 🚀 Featured Projects
-
-
-| **[Uber Pricing Optimization – New York City ](https://github.com/sheeba-merlyn1/repo-1)** 
-
-| **[Fast Food Marketing Campaign – A/B Testing](https://github.com/sheeba-merlyn1/repo-2)**
-
----
-
-<p align="center">
-  <i>Thanks for stopping by — let's connect and talk data! 📈</i>
-</p>
+## Connect
+[LinkedIn](#) · [Email](#) · [Portfolio](#)
